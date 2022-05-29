@@ -23,5 +23,7 @@ http://todomvc.com/examples/vue/
 feature/#2_base_todo など。
 
 一つのissueに対して複数ブランチで対応してもOK。
+
 あんまり長すぎない名前のほうがうれしい。
+
 feature/#2_add_new_task_functionとかはやめよう。
