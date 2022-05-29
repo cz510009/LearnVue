@@ -13,3 +13,11 @@ http://todomvc.com/examples/vue/
 - コンポーネントの詳細
 
 読んだらissueを順番に進める。
+
+# ブランチについて
+
+作業ブランチは feature/#{issue番号}_{適当な名前} とすること。
+
+たとえば[issue2](https://github.com/cz510009/LearnVue/issues/2)なら、
+
+feature/#2_base_todo など。
